@@ -1,5 +1,5 @@
 import os
 
-os.system("cmake Unix/.")
-os.system("make -C Unix/.")
-os.system("Unix/StrongholdTracking")
+os.system("cmake unix/.")
+os.system("make -C unix/.")
+os.system("unix/StrongholdTracking")
